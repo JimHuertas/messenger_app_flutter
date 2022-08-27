@@ -1,16 +1,29 @@
-# messenger_app
+# Flutter Avanzado: Lleva tu conocimiento al siguiente nivel
 
-A new Flutter project.
+## Messenger App
+Messenger app real time chats, working with NodeJS (socket.io), MongoDB, etc.
 
-## Getting Started
+MODULES 6-7-8-10-11
+Udemy curse by: [Fernando Herrera](https://fernando-herrera.com/#/)
 
-This project is a starting point for a Flutter application.
+This time learning backend with NodeJS in Flutter.
+Requirements:
+- Flutter
+- Postman
+- MongoDB
+- NodeJS (another project, soon I will put link repository)
 
-A few resources to get you started if this is your first Flutter project:
+## Modules 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### 02 - Messenger App
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+#### YAML Flutter:
+- cupertino_icons: ^1.0.2 (views for IOS)
+- socket_io_client: ^2.0.0
+- provider: ^6.0.3 (listeners for changes in real time on views)
+
+#### Packages Used (NodeJS):
+- express
+- dotenv
+- Socket.io
+- uuid (create uniques ids)
