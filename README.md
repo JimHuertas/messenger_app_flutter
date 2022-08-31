@@ -1,5 +1,7 @@
 # Flutter Avanzado: Lleva tu conocimiento al siguiente nivel
 
+Udemy curse by: [Fernando Herrera](https://fernando-herrera.com/#/)
+
 ## Messenger App
 Messenger app real time chats, working with NodeJS (socket.io), MongoDB, etc.
 
@@ -7,20 +9,20 @@ Messenger app real time chats, working with NodeJS (socket.io), MongoDB, etc.
 <img src="assets/screeshot_v1.png" width="300" >
 </p>
 
-Udemy curse by: [Fernando Herrera](https://fernando-herrera.com/#/)
 
-previus SECTIONS:
-1(intro)-2-3-4-5   ✅ 
+previus SECTIONS: \
+1(intro) - 2 - 3 - 4 - 5   ✅
 
+Links here:
 - [Bands App](https://github.com/JimHuertas/bands-flutter-app)
 - [Bands App Server](https://github.com/JimHuertas/01-bands-names-server)
 
-MODULES: \
-6   ✅ \
-7   🚫 \
-8   🚫 \
-10  🚫 \
-11  🚫
+MODULES:
+- 6&emsp;&emsp;&ensp;✅
+- 7&emsp;&emsp;&ensp;🚫
+- 8&emsp;&emsp;&ensp;🚫 
+- 10&emsp;&emsp; 🚫
+- 11&emsp;&emsp;&ensp;🚫
 
 <br />
 
