@@ -4,7 +4,7 @@
 Messenger app real time chats, working with NodeJS (socket.io), MongoDB, etc.
 
 <p align="center">
-<img src="assets/screeshot_v1.png" width="100" >
+<img src="assets/screeshot_v1.png" width="300" >
 </p>
 
 Udemy curse by: [Fernando Herrera](https://fernando-herrera.com/#/)
