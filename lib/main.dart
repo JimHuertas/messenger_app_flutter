@@ -1,9 +1,16 @@
 import 'package:flutter/material.dart';
+import 'package:flutter/services.dart';
 
-import 'package:messenger_app/pages/home.dart';
+import 'package:messenger_app/routes/routes.dart';
 
+void main(){
+   // add these lines
+  WidgetsFlutterBinding.ensureInitialized();
+  SystemChrome.setPreferredOrientations(
+    [DeviceOrientation.portraitUp, DeviceOrientation.portraitDown]); 
 
-void main() => runApp(MyApp());
+  runApp(MyApp());
+}
 
 class MyApp extends StatelessWidget {
   @override
@@ -11,11 +18,8 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
       title: 'Messenger App',
-      initialRoute: 'home',
-      home: HomePage(),
-      routes: {
-        'home': (_) => HomePage()
-      },
+      initialRoute: 'login',
+      routes: appRoutes,
     );
   }
 }

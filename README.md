@@ -20,7 +20,7 @@ Requirements:
 #### YAML Flutter:
 - cupertino_icons: ^1.0.2 (views for IOS)
 - socket_io_client: ^2.0.0
-- provider: ^6.0.3 (listeners for changes in real time on views)
+- provider: ^6.0.3 (listeners when detected a change in its model origin, do changes in real time on views)
 
 #### Packages Used (NodeJS):
 - express
